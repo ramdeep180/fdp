@@ -10,3 +10,4 @@ echo "My instance MAC address is $MAC"
 echo "My instance profile is $P"
 echo "my instance public ip is $PIP"
 
+echo"-----------------------------------------------------"
